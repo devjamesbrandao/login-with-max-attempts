@@ -3,7 +3,7 @@
 <hr/>
 
 <p align="center">
-    <img src="/Img/Canceling-tokens.png" alt="Application's swagger" title="Application's swagger">
+    <img src="/Img/max-attempt-error.png" alt="Application's swagger" title="Application's swagger">
 </p> 
 
 ### ` 💡 Covered topics`
