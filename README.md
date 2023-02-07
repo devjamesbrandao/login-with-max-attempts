@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Sistema de login com tentativas máximas de acesso com usuário ou senha errado(s)</strong></h1>
+<h1 align="center"><strong>Sistema de login com tentativas máximas de acesso com usuário ou senha incorretos</strong></h1>
 
 <hr/>
 
