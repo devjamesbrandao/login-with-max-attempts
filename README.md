@@ -14,7 +14,7 @@
 
 ### `🔎 How to use ?`
 
-<p>$ git clone https://github.com/devjamesbrandao/cancelete-token-and-rate-limiting.git</p>
+<p>$ git clone https://github.com/devjamesbrandao/login-with-max-attempts.git</p>
 
 <p>$ cd .\Autentication.API\</p>
 
